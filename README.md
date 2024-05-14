@@ -1,5 +1,5 @@
-#Test project made by Yii2 Framework implementing Online library
-#start server with command 'php yii serve'
+## Test project made by Yii2 Framework implementing Online library
+### Start server with command 'php yii serve'
 
 DIRECTORY STRUCTURE
 -------------------
